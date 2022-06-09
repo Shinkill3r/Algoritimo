@@ -1,4 +1,4 @@
-import java.util.Scanner;
+import java.util.Scanner; // opa
 public class trabalho{
     public static void main(String[] args) {
         char tema, p1,p2,p3,p4,p5;
