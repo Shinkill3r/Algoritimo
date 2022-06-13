@@ -73,7 +73,7 @@ public class Main{
                             } else if (p1=='e' || p1=='E'){             //Se a resposta guardada na variável "p1" for igual a 'e' ou 'E', voltará ao menu.
                                 sair = true;
                             } else{                                     //Se a resposta guardada na variável "p1" estiver errada, vai aparecer "Resposta Errada! ...".
-                                System.out.println("\033[1;33m" + "Você errou! ...\n" + "\033[0m");
+                                System.out.println("\033[1;33m" + "Você errou! ..." + "\033[0m" + "Resposta correta letra A\n");
                                  erro++;
                             }
 
@@ -109,7 +109,7 @@ public class Main{
                             } else if (p2=='e' || p2=='E'){              //Se a resposta guardada na variável "p2" for igual a 'e' ou 'E', voltará ao menu.
                             sair = true;
                             }else{                                     //Se a resposta guardada na variável "p2" estiver errada, vai aparecer "Resposta Errada! ...".
-                                System.out.println("\033[1;33m" + "Você errou! ...\n" + "\033[0m");
+                                System.out.println("\033[1;33m" + "Você errou! ...\n" + "\033[0m" + "Resposta correta letra C\n");
                                 erro++;
                             }
 
@@ -142,7 +142,7 @@ public class Main{
                             } else if (p3=='e' || p3=='E'){              //Se a resposta guardada na variável "p3" for igual a 'e' ou 'E', voltará ao menu.
                                 sair = true;
                             } else{                                     //Se a resposta guardada na variável "p3" estiver errada, vai aparecer "Resposta Errada! ...".
-                                System.out.println("\033[1;33m" + "Você errou! ...\n" + "\033[0m");
+                                System.out.println("\033[1;33m" + "Você errou! ...\n" + "\033[0m" + "Resposta correta letra B\n");
                                 erro++;
                             }
 
@@ -175,7 +175,7 @@ public class Main{
                             } else if (p4=='e' || p4=='E'){              //Se a resposta guardada na variável "p4" for igual a 'e' ou 'E', voltará ao menu.
                                 sair = true;
                             } else{                                     //Se a resposta guardada na variável "p4" estiver errada, vai aparecer "Resposta Errada! ...".
-                                System.out.println("\033[1;33m" + "Você errou! ...\n" + "\033[0m");
+                                System.out.println("\033[1;33m" + "Você errou! ...\n" + "\033[0m" + "Resposta correta letra C\n");
                                 erro++;
                             }
                         
@@ -207,7 +207,7 @@ public class Main{
                             } else if (p5=='e' || p5=='E'){              //Se a resposta guardada na variável "p5" for igual a 'e' ou 'E', voltará ao menu.
                                 sair = true;
                             } else{                                     //Se a resposta guardada na variável "p5" estiver errada, vai aparecer "Resposta Errada! ...".
-                                System.out.println("\033[1;33m" + "Você errou! ...\n" + "\033[0m");
+                                System.out.println("\033[1;33m" + "Você errou! ...\n" + "\033[0m" + "Resposta correta letra A\n");
                                 erro++;
                             }
                         
@@ -262,7 +262,7 @@ public class Main{
                         } else if (p1=='e' || p1=='E'){              //Se a resposta guardada na variável "p1" for igual a 'e' ou 'E', voltará ao menu.
                             sair = true;
                         } else{                                     //Se a resposta guardada na variável "p1" estiver errada, vai aparecer "Resposta Errada! ...".
-                            System.out.println("\033[1;33m" + "Você errou! ...\n" + "\033[0m");
+                            System.out.println("\033[1;33m" + "Você errou! ...\n" + "\033[0m" + "Resposta correta letra C\n");
                             erro++;
                         }
 
@@ -294,7 +294,7 @@ public class Main{
                         } else if (p2=='e' || p2=='E'){              //Se a resposta guardada na variável "p2" for igual a 'e' ou 'E', voltará ao menu.
                             sair = true;
                         } else{                                       //Se a resposta guardada na variável "p2" estiver errada, vai aparecer "Resposta Errada! ...".
-                            System.out.println("\033[1;33m" + "Você errou! ...\n" + "\033[0m");
+                            System.out.println("\033[1;33m" + "Você errou! ...\n" + "\033[0m" + "Resposta correta letra C\n");
                             erro++;
                         }
 
@@ -326,7 +326,7 @@ public class Main{
                         } else if (p3=='e' || p3=='E'){              //Se a resposta guardada na variável "p3" for igual a 'e' ou 'E', voltará ao menu.
                             sair = true;
                         } else{                                      //Se a resposta guardada na variável "p3" estiver errada, vai aparecer "Resposta Errada! ...".
-                            System.out.println("\033[1;33m" + "Você errou! ...\n" + "\033[0m");
+                            System.out.println("\033[1;33m" + "Você errou! ...\n" + "\033[0m" + "Resposta correta letra D\n");
                             erro++;
                         }
 
@@ -360,7 +360,7 @@ public class Main{
                         } else if (p4=='e' || p4=='E'){              //Se a resposta guardada na variável "p4" for igual a 'e' ou 'E', voltará ao menu.
                             sair = true;
                         } else{                                      //Se a resposta guardada na variável "p4" estiver errada, vai aparecer "Resposta Errada! ...".
-                            System.out.println("\033[1;33m" + "Você errou! ...\n" + "\033[0m");
+                            System.out.println("\033[1;33m" + "Você errou! ...\n" + "\033[0m" + "Resposta correta letra A\n");
                             erro++;
                         }
                 
@@ -392,7 +392,7 @@ public class Main{
                         } else if (p5=='e' || p5=='E'){              //Se a resposta guardada na variável "p5" for igual a 'e' ou 'E', voltará ao menu.
                             sair = true;
                         } else{                                      //Se a resposta guardada na variável "p5" estiver errada, vai aparecer "Resposta Errada! ...".
-                            System.out.println("\033[1;33m" + "Você errou! ...\n" + "\033[0m");
+                            System.out.println("\033[1;33m" + "Você errou! ...\n" + "\033[0m" + "Resposta correta letra B\n");
                             erro++;
                         }
                 
